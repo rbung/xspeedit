@@ -26,6 +26,8 @@ You should know have `xspeedit` command :)
 xspeedit
 ```
 
+![](http://www.giphy.com/gifs/3ov9jEV5d7io8bvvQQ)
+
  * Run the tests
  
 ```bash
