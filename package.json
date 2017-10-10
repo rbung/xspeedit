@@ -4,7 +4,7 @@
   "description": "A module to ship articles !",
   "main": "xspeedit.js",
   "scripts": {
-    "test": "jest",
+    "test": "standard && jest",
     "test:watch": "jest --watch",
     "lint": "standard",
     "format": "prettier-standard-formatter *.js"
